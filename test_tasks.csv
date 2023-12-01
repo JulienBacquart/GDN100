@@ -1,0 +1,107 @@
+"Tâches","Désignation de la tâche","Ancêtres","Durée"
+"A","Adding Hidden Agendas","-",7
+"B","Adjusting Bell Curves","A",5
+"C","Aesthesizing Industrial Areas","B",4
+"D","Aligning Covariance Matrices","C",3
+"E","Applying Feng Shui Shaders","D, F, H",6
+"F","Applying Theatre Soda Layer","C, G",8
+"G","Asserting Packed Exemplars","B",3
+"H","Attempting to Lock Back-Buffer","G",5
+"I","Binding Sapling Root System","D",4
+"J","Breeding Fauna","I",9
+"K","Building Data Trees","E, I",6
+"L","Bureacritizing Bureaucracies","J, K",12
+"M","Calculating Inverse Probability Matrices","L",4
+"N","Calculating Llama Expectoration Trajectory","L",7
+"O","Calibrating Blue Skies","N",3
+"P","Charging Ozone Layer","L",5
+"Q","Coalescing Cloud Formations","P",4
+"R","Cohorting Exemplars","M, O, Q",3
+"S","Collecting Meteor Particles","R",6
+"T","Compounding Inert Tessellations","S",5
+"U","Compressing Fish Files","S",4
+"V","Computing Optimal Bin Packing","S",3
+"W","Concatenating Sub-Contractors","U, V",5
+"X","Containing Existential Buffer","T, W",4
+"Y","Debarking Ark Ramp","X",6
+"Z","Debunching Unionized Commercial Services","Y",3
+"AA","Deciding What Message to Display Next","-",4
+"AB","Decomposing Singular Values","AA",5
+"AC","Decrementing Tectonic Plates","AB, CC",3
+"AD","Deleting Ferry Routes","AC",4
+"AE","Depixelating Inner Mountain Surface Back Faces","AC",6
+"AF","Depositing Slush Funds","AC",5
+"AG","Destabilizing Economic Indicators","AC",4
+"AH","Determining Width of Blast Fronts","AG",3
+"AI","Deunionizing Bulldozers","AF",5
+"AJ","Dicing Models","AE, AF",4
+"AK","Diluting Livestock Nutrition Variables","AD",3
+"AL","Downloading Satellite Terrain Data","AH, AI, AJ, AK",7
+"AM","Exposing Flash Variables to Streak System","AL, BF",4
+"AN","Extracting Resources","AM",5
+"AO","Factoring Pay Scale","AM",3
+"AP","Fixing Election Outcome Matrix","AO",6
+"AQ","Flood-Filling Ground Water","AP",5
+"AR","Flushing Pipe Network","AN, AO, AQ",4
+"AS","Gathering Particle Sources","AR",3
+"AT","Generating Jobs","AR",6
+"AU","Gesticulating Mimes","AR",4
+"AV","Graphing Whale Migration","AR",5
+"AW","Hiding Willio Webnet Mask","AR",3
+"AX","Implementing Impeachment Routine","AS, AT, AU, AV, AW",6
+"AY","Increasing Accuracy of RCI Simulators","AX",5
+"AZ","Increasing Magmafacation","AY",4
+"BA","Initializing My Sim Tracking Mechanism","-",5
+"BB","Initializing Rhinoceros Breeding Timetable","AA, BA",5
+"BC","Initializing Robotic Click-Path AI","BB",4
+"BD","Inserting Sublimated Messages","AC, BC",3
+"BE","Integrating Curves","BD",5
+"BF","Integrating Illumination Form Factors","BE",4
+"BG","Integrating Population Graphs","BF",3
+"BH","Iterating Cellular Automata","BG",6
+"BI","Lecturing Errant Subsystems","BH",5
+"BJ","Mixing Genetic Pool","AN, BI",4
+"BK","Modeling Object Components","BJ",3
+"BL","Mopping Occupant Leaks","BK",7
+"BM","Normalizing Power","BL",4
+"BN","Obfuscating Quigley Matrix","BM",3
+"BO","Overconstraining Dirty Industry Calculations","BM",6
+"BP","Partitioning City Grid Singularities","BO",5
+"BQ","Perturbing Matrices","AY, BM",4
+"BR","Pixalating Nude Patch","BM",3
+"BS","Polishing Water Highlights","BR",5
+"BT","Populating Lot Templates","BN, BP, BS",4
+"BU","Preparing Sprites for Random Walks","BT",3
+"BV","Prioritizing Landmarks","BU",6
+"BW","Projecting Law Enforcement Pastry Intake","BQ, BV",5
+"BX","Realigning Alternate Time Frames","BW",4
+"BY","Reconfiguring User Mental Processes","AZ, BU, BX",3
+"BZ","Relaxing Splines","BY",6
+"CA","Removing Road Network Speed Bumps","-",5
+"CB","Removing Texture Gradients","CA",4
+"CC","Removing Vehicle Avoidance Behavior","CA",3
+"CD","Resolving GUID Conflict","CA",7
+"CE","Reticulating Splines","CB, CC, CD",4
+"CF","Retracting Phong Shader","CE",3
+"CG","Retrieving from Back Store","BG, CF",5
+"CH","Reverse Engineering Image Consultant","CF",4
+"CI","Routing Neural Network Infanstructure","BE, CF, CH",3
+"CJ","Scattering Rhino Food Sources","CG, CI",6
+"CK","Scrubbing Terrain","BH, BI, BJ, CJ",5
+"CL","Searching for Llamas","CK",4
+"CM","Seeding Architecture Simulation Parameters","BK, BL, BM, CL",3
+"CN","Sequencing Particles","CM",7
+"CO","Setting Advisor Moods","CN",4
+"CP","Setting Inner Deity Indicators","CO",3
+"CQ","Setting Universal Physical Constants","CP",5
+"CR","Sonically Enhancing Occupant-Free Timber","CO",4
+"CS","Speculating Stock Market Indices","CR",3
+"CT","Splatting Transforms","CS",6
+"CU","Stratifying Ground Layers","CO",5
+"CV","Sub-Sampling Water Data","CU",4
+"CW","Synthesizing Gravity","CV",3
+"CX","Synthesizing Wavelets","CW",6
+"CY","Time-Compressing Simulator Clock","CQ, CT, CX",5
+"CZ","Unable to Reveal Current Activity","Z, BZ, CY, DB",4
+"DA","Weathering Buildings","-",3
+"DB","Zeroing Crime Network","DA",6

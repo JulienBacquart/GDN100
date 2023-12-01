@@ -1,0 +1,14 @@
+"Tâches","Désignation de la tâche","Ancêtres","Durée"
+"A","Terrassement","-",5
+"B","Fondations","A",4
+"C","Charpente verticale","B",2
+"D","charpente de la toiture","C",2
+"E","Couverture","D, F",3
+"F","Maçonnerie","C",5
+"G","Gros œuvre plomberie et électricité","B",3
+"H","Coulage de la date de béton","G",3
+"I","Chauffage","H, F",4
+"J","Plâtre","I, E",10
+"K","Finitions et installation des machines","J, M",5
+"L","Négociation achat machines et livraison","-",15
+"M","Réception des machines et essai sur « hors site »","L",3
